@@ -4,7 +4,7 @@
 
 **Mithril-gated privacy onboarding and shared transaction capacity for Midnight**
 
-[Website](https://ura.finance) · [Preprod](https://preprod.ura.finance) · [Documentation](https://ura-labs-1.gitbook.io/ura-documentation/)
+[Live Preprod](https://preprod.ura.finance) · [Documentation](https://ura-labs-1.gitbook.io/ura-documentation/)
 
 </div>
 
